@@ -5,9 +5,9 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=devinenitejaswini&label=Profile%20views&color=0e75b6&style=flat" alt="devinenitejaswini" /> </p>
 
 
-- 🔭 I’m currently working on **Fake news prediction**
+- 🔭 I’m currently working on **Artificial Intelligence**
 
-- 🌱 I’m currently learning **MERN Stack**
+- 🌱 I’m currently learning **MACHINE LEARNING**
 
 - 💬 Ask me about **Python, Machine learning**
 
